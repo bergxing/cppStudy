@@ -1,3 +1,6 @@
 [submodule "thirdPart/boost"]
 	path = thirdPart/boost
 	url = https://github.com/boostorg/boost.git
+[submodule "thirdPart/eigen"]
+	path = thirdPart/eigen
+	url = https://github.com/PX4/eigen.git
